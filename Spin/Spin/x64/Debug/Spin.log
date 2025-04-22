@@ -1,0 +1,4 @@
+﻿  GameMainScene.cpp
+C:\dxlib\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kbc12206116\Documents\Spin\Scene\GameMainScene.cpp(263,17): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+  Spin.vcxproj -> C:\Users\kbc12206116\Documents\Spin\x64\Debug\Spin.exe
